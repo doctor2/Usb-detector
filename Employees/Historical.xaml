@@ -1,0 +1,38 @@
+﻿<Window x:Class="Employees.Historical"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="История подключений" Height="500" Width="800"
+        MinWidth="650" MinHeight="300"
+        Icon="Resources\ScrapsUSB.ico" Loaded="Load">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0" >
+            <Label Background="AliceBlue" Content="Сортировать по дате  "/>
+            <DatePicker Name="Calendar" SelectedDateChanged="Calendar_SelectedDateChanged"/>
+            <Label Background="AliceBlue" Content="  "/>
+            <Button Content="Сбросить" Width="Auto" Name="ClearFilter" Click="ClearFilter_Click"/>
+            <Label Background="AliceBlue"  />
+        </DockPanel>
+        <DataGrid x:Name="Table"  AutoGenerateColumns="False" Grid.Row="1"
+                      ItemsSource="{Binding}" IsReadOnly="True"
+                  ColumnWidth="*"
+                       RowBackground="#FFFFFF" AlternatingRowBackground="#ECECEC"  
+                  HorizontalScrollBarVisibility="Auto">
+
+            <DataGrid.Columns >
+                <DataGridTextColumn    Header="Подключение" FontWeight="Bold" Binding="{Binding Plug}"/>
+                <DataGridTextColumn   Header="Модель"  Binding="{Binding Model}"/>
+                <DataGridTextColumn    Header="Серийный номер" Binding="{Binding Serial}"/>
+                <DataGridTextColumn   Header="Тип устройства" Binding="{Binding MediaType}"/>
+                <DataGridTextColumn  Header="Тип интерфейса" Binding="{Binding Interface}"/>
+                <DataGridTextColumn   Header="Емкость" Binding="{Binding Capacity}"/>
+                <DataGridTextColumn   Header="Дата и время" Binding="{Binding Date, StringFormat={}{0:yy/MM/dd H:mm:ss}}"/>
+                <!-- , StringFormat={}{0:yy/MM/dd H:mm:ss}-->
+            </DataGrid.Columns>
+            <!--Width="Auto"-->
+        </DataGrid>
+    </Grid>
+</Window>

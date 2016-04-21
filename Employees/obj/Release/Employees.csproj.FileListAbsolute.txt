@@ -1,0 +1,27 @@
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\USB_Detector.exe.config
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\USB_Detector.exe
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\USB_Detector.pdb
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\EntityFramework.dll
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\System.Data.SQLite.dll
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\EntityFramework.xml
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\bin\Release\System.Data.SQLite.xml
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\Historical.baml
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\App.baml
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\Historical.g.cs
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\MainWindow.g.cs
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\App.g.cs
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\USB_Detector_MarkupCompile.cache
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\USB_Detector_MarkupCompile.lref
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\MainWindow.baml
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\USB_Detector.g.resources
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\Employees.Properties.Resources.resources
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\Employees.csproj.GenerateResource.Cache
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\USB_Detector.exe
+C:\Users\Doctor\Desktop\урай\Empty-Calc-ather-Empty\Empty-Calc-ather-SqlLite\Employees\obj\Release\USB_Detector.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Usb-detector\Employees\bin\Release\USB_Detector.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Usb-detector\Employees\obj\Release\USB_Detector.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Usb-detector\Employees\obj\Release\USB_Detector.pdb

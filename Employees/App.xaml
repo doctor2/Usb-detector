@@ -1,0 +1,12 @@
+﻿<Application x:Class="Employees.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <LinearGradientBrush x:Key="BackgroundWindowResource">
+            <GradientStop Offset="0.00" Color="#FF87A0DE"/>
+            <GradientStop Offset="0.50" Color="Azure"/>
+            <GradientStop Offset="1.00" Color="#FF009CFF"/>
+        </LinearGradientBrush>
+    </Application.Resources>
+</Application>
